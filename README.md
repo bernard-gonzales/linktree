@@ -23,9 +23,17 @@ Hello world!
 
 Add, commit, and push your changes:
 
-`git add .
+```
+git add .
+```
+
+```
 git commit -m 'Initial commit'
-git push -u origin main`
+```
+
+```
+git push -u origin main
+```
 
 To verify that your website is up, go to **https://*username*.github.io**
 
